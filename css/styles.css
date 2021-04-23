@@ -27,3 +27,16 @@ a {
   letter-spacing: 4px;
   font-size: 25;
 }
+.headline-pic {
+  height: 300px;
+  width: 600px;
+}
+.greet {
+  text-align: center;
+}
+.ex-spaces {
+  text-align: center;
+}
+.explore-body {
+  background: url("../SemesterProject1/images/william-bout-264826.jpg");
+}
