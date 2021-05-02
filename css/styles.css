@@ -54,7 +54,7 @@ a {
   max-width: 1200px;
   margin: 0 auto;
   text-align: center;
-  
+  padding:20px;
 }
 .explore-top h1 {
   font-weight: normal;
@@ -65,6 +65,7 @@ a {
 }
 }
 .explore-top p {
+  padding:5px;
   font-size: 1.05rem;
   line-height: 1.6;
 }
@@ -96,15 +97,25 @@ a {
 .inner-explore h3{
   color:#1e90ff;
 }
+.btn-container{
+  text-align:center;
+  margin-top: 55px;
+}
+.start-btn:hover{
+  color: rgb(97, 202, 206);
+}
 img {
   max-width: 100%;
   max-height: 100%;
+  border-radius: 8px;
 }
 /*main-Explore-page*/
 
 /*footer*/
 footer {
-  text-align: center;
+  align-items:center;
   background-color: #1e90ff;
   color: #fff;
+  display:flex;
+  justify-content: space-around;
 }
