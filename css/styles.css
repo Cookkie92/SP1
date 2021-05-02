@@ -14,6 +14,7 @@ nav {
   display: flex;
   justify-content: space-around;
   width: 35%;
+  border-radius: 10px;
 }
 nav a:hover {
   color: rgb(97, 202, 206);
@@ -30,13 +31,17 @@ a {
 }
 .nav-links a {
   letter-spacing: 3px;
-  font-weight: bold;
+  font-weight: normal;
   font-size: 15px;
 }
 .logo {
   text-transform: uppercase;
   letter-spacing: 4px;
   font-size: 25px;
+}
+.nav-links .current {
+  font-weight: bold;
+  font-size: 17px;
 }
 /*Main-FP*/
 
@@ -51,21 +56,20 @@ a {
   background-size: 100% auto;
 }
 .explore-top {
-  max-width: 1200px;
+  max-width: 800px;
   margin: 0 auto;
   text-align: center;
-  padding:20px;
+  padding: 20px;
 }
 .explore-top h1 {
   font-weight: normal;
   font-size: 3rem;
   margin: 0;
   padding: 5px;
-  color:#1e90ff;
-}
+  color: #1e90ff;
 }
 .explore-top p {
-  padding:5px;
+  padding: 5px;
   font-size: 1.05rem;
   line-height: 1.6;
 }
@@ -94,14 +98,14 @@ a {
   grid-column-gap: 45px;
   grid-row-gap: 45px;
 }
-.inner-explore h3{
-  color:#1e90ff;
+.inner-explore h3 {
+  color: #1e90ff;
 }
-.btn-container{
-  text-align:center;
+.btn-container {
+  text-align: center;
   margin-top: 55px;
 }
-.start-btn:hover{
+.start-btn:hover {
   color: rgb(97, 202, 206);
 }
 img {
@@ -113,9 +117,9 @@ img {
 
 /*footer*/
 footer {
-  align-items:center;
+  align-items: center;
   background-color: #1e90ff;
   color: #fff;
-  display:flex;
+  display: flex;
   justify-content: space-around;
 }
