@@ -55,7 +55,12 @@ a {
     no-repeat center;
   background-size: 100% auto;
 }
-
+.greet-ex {
+  padding: 200px 150px;
+  background: url("../SemesterProject1/images/celso-405219.jpg") no-repeat
+    center;
+  background-size: 100% auto;
+}
 .explore-top {
   max-width: 800px;
   margin: 0 auto;
