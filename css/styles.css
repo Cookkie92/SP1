@@ -61,6 +61,12 @@ a {
     center;
   background-size: 100% auto;
 }
+.greet-events {
+  padding: 200px 150px;
+  background: url("../SemesterProject1/images/Wide_lightning.jpg") no-repeat
+    center;
+  background-size: 100% auto;
+}
 .explore-top {
   max-width: 800px;
   margin: 0 auto;
@@ -105,6 +111,9 @@ a {
   grid-row-gap: 45px;
 }
 .inner-explore h3 {
+  color: #1e90ff;
+}
+.inner-explore h4 {
   color: #1e90ff;
 }
 .btn-container {
