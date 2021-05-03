@@ -114,6 +114,25 @@ img {
   border-radius: 8px;
 }
 /*main-Explore-page*/
+.ex-spaces {
+  background-color: rgb(190, 190, 190);
+  padding: 50px 35px;
+}
+.inner-ex-spaces {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-column-gap: 45px;
+  grid-row-gap: 45px;
+}
+.ex-head {
+  text-align: center;
+}
+.ex-spaces h1 {
+}
+.inner-ex-spaces h3 {
+}
 
 /*footer*/
 footer {
