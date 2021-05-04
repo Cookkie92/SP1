@@ -136,6 +136,14 @@ a {
 .inner-visit h3 {
   color: #1e90ff;
 }
+.inner-background {
+  border-radius: 10px;
+  background-color: rgb(235, 235, 235);
+  margin: 5px;
+}
+.price {
+  color: #1e90ff;
+}
 .start-btn {
   background-color: #1e90ff;
   color: #fff;
