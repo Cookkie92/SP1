@@ -187,8 +187,7 @@ footer {
   }
 
   .inner-explore {
-    max-width: 600px;
-    white-space: pre-line;
+    overflow-wrap: break-word;
   }
   img {
     max-width: 75%;
