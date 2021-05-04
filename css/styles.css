@@ -187,7 +187,7 @@ footer {
   }
 
   .inner-explore p {
-    display: inline-block;
+    width: fit-content;
   }
   img {
     max-width: 90%;
