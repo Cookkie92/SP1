@@ -188,6 +188,7 @@ footer {
 
   .inner-explore {
     max-width: 600px;
+    white-space: pre-line;
   }
   img {
     max-width: 75%;
