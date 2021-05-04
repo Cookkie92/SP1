@@ -54,7 +54,7 @@ a {
   font-size: 17px;
 }
 
-/*main*/
+/*banner pics*/
 
 .greet {
   padding: 200px 150px;
@@ -74,6 +74,7 @@ a {
     center;
   background-size: 100% auto;
 }
+/* top main */
 .explore-top {
   max-width: 800px;
   margin: 0 auto;
