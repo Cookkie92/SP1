@@ -164,6 +164,11 @@ footer {
 }
 
 /*Tablet/mobile */
+@media (min-width: 1175px) {
+  .menu-wrap{
+    visibility: hidden;
+  }
+}
 
 @media (max-width: 1175px) {
   .nav-links {
