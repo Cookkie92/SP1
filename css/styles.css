@@ -186,6 +186,10 @@ footer {
     padding: 15px;
   }
 
+  .inner-explore {
+    max-width: 800px;
+  }
+
   /* burger menu */
   .menu-wrap {
     position: fixed;
