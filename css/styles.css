@@ -7,6 +7,9 @@ img {
   max-height: 100%;
   border-radius: 8px;
 }
+:root{
+  --menu-speed: 0.75s;
+}
 
 /* navigation*/
 
