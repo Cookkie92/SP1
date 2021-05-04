@@ -186,8 +186,8 @@ footer {
     padding: 15px;
   }
 
-  .inner-explore {
-    overflow-wrap: break-word;
+  .inner-explore p {
+    max-width: 800px;
   }
   img {
     max-width: 75%;
