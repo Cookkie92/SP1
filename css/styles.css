@@ -186,8 +186,9 @@ footer {
     padding: 15px;
   }
 
-  .inner-explore p {
-    width: fit-content;
+  p{
+    max-width:90%;
+    max height:90%;
   }
   img {
     max-width: 90%;
