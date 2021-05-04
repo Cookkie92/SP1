@@ -62,21 +62,21 @@ a {
   background: url("../SemesterProject1/images/exhibition-1863344_1920.jpg")
     no-repeat center;
   background-size: 100% auto;
-  background-color:rgb(235, 235, 235);
+  background-color: rgb(235, 235, 235);
 }
 .greet-ex {
   padding: 200px 150px;
   background: url("../SemesterProject1/images/celso-405219.jpg") no-repeat
     center;
   background-size: 100% auto;
-  background-color:rgb(235, 235, 235);
+  background-color: rgb(235, 235, 235);
 }
 .greet-events {
   padding: 200px 150px;
   background: url("../SemesterProject1/images/Wide_lightning.jpg") no-repeat
     center;
   background-size: 100% auto;
-  background-color:rgb(235, 235, 235);
+  background-color: rgb(235, 235, 235);
 }
 /* top main */
 .explore-top {
@@ -189,25 +189,24 @@ footer {
     padding: 15px;
   }
 
-  p{
+  p {
     max-width: 100%;
-    max height: 90%;
     font-size: 1.2rem;
   }
-  .explore-top p{
-    font-size:1.2rem;
+  .explore-top p {
+    font-size: 1.2rem;
   }
   img {
     max-width: 90%;
     max-height: 90%;
     border-radius: 8px;
   }
-.inner-explore{
-  display:grid;
-  grid-template-columns:100%;
-  margin: 0 auto;
-  text-align: center;
-}
+  .inner-explore {
+    display: grid;
+    grid-template-columns: 100%;
+    margin: 0 auto;
+    text-align: center;
+  }
   /* burger menu */
   .menu-wrap {
     position: fixed;
@@ -233,11 +232,12 @@ footer {
     width: 60px;
     height: 60px;
     padding: 1rem;
-    background: #1e90ff;
+    background: hsl(210, 100%, 56%);
     display: flex;
     align-items: center;
     justify-content: center;
     border-radius: 32px;
+    opacity: 0.9;
   }
 
   /*hamburgerline*/
@@ -352,27 +352,43 @@ footer {
   }
 }
 
-@media (max-width: 1023px){
+@media (max-width: 1023px) {
   .greet-events {
-  display:none;
+    display: none;
+  }
+  p {
+    font-size: 1.2rem;
+  }
+  .explore-top p {
+    font-size: 1.2rem;
+  }
+  .explore-top h1 {
+    font-size: 1.8rem;
+    font-weight: bold;
   }
 }
 
-@media (max-width: 767px){
+@media (max-width: 767px) {
   .greet {
-   display:none;
+    display: none;
   }
   .greet-ex {
-  display:none;
+    display: none;
   }
-  p{
-    font-size:1rem;
+  p {
+    font-size: 1rem;
   }
-  .explore-top p{
-    font-size:1rem;
+  .explore-top p {
+    font-size: 1rem;
   }
-  .explore-top h1{
-    font-size:1.6rem;
-    font-weight:bold;
+  .explore-top h1 {
+    font-size: 1.6rem;
+    font-weight: bold;
+  }
+}
+
+@media (max-width: 380px) {
+  .explore-top p {
+    display: none;
   }
 }
