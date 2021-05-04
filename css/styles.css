@@ -365,4 +365,13 @@ footer {
   .greet-ex {
   display:none;
   }
+  p{
+    font-size:1rem;
+  }
+  .explore-top p{
+    font-size:1rem;
+  }
+  .explore-top h1{
+    font-size:1.5rem;
+  }
 }
