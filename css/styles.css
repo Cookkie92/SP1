@@ -182,7 +182,8 @@ footer {
 
   .logo {
     letter-spacing: 2px;
-    font-size: 25px;
+    font-size: 15px;
+    padding: 15px;
   }
 
   /* burger menu */
@@ -326,13 +327,5 @@ footer {
     color: inherit;
     text-decoration: none;
     transition: color 0.4s ease;
-  }
-}
-
-@media (max-width: 800px) {
-  .logo {
-    letter-spacing: 2px;
-    font-size: 15px;
-    padding: 15px;
   }
 }
