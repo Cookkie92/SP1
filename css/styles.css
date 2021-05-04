@@ -173,7 +173,7 @@ footer {
 
 .logo {
   letter-spacing: 2px;
-  text-transform:lowercase;
+  float:right;
 }
 /* burger menu */
 .menu-wrap {
