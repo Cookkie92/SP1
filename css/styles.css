@@ -106,7 +106,7 @@ a {
   text-align: center;
 }
 .inner-explore {
-  max-width: 1200px;
+  max-width: 800px;
   margin: 0 auto;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -114,7 +114,8 @@ a {
   grid-row-gap: 45px;
   background-color: #fff;
   border-radius: 10px;
-  padding: 10px;
+  padding: 20px;
+  text-align: center;
 }
 .inner-explore h3 {
   color: #1e90ff;
