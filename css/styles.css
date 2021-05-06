@@ -171,10 +171,13 @@ a {
 
 /*Contact us*/
 
+.contacts {
+  background-color: rgb(235, 235, 235);
+  border-radius: 10px;
+}
 .contact-wrap {
   padding-bottom: 15px;
   width: 100%;
-  background-color: rgb(235, 235, 235);
   align-items: center;
 }
 .contact-form {
@@ -212,6 +215,12 @@ a {
   border: 2px solid rgb(170, 169, 169);
 }
 ::-webkit-input-placeholder {
+  color: rgb(14, 14, 14);
+}
+::-moz-input-placeholder {
+  color: rgb(14, 14, 14);
+}
+::-ms-input-placeholder {
   color: rgb(14, 14, 14);
 }
 .contact-btn {
