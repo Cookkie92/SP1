@@ -13,19 +13,21 @@ The site should also be very easy to navigate and the layout is made so it is ea
 -Javascript
 
 # Getting Started
+If you want to clone my repo and work on my site you are free to do so.
+
+Clone the repo: git clone https://github.com/Cookkie92/SP1.git
+
+Install the dependencies:
+
+-There are no dependencies on this website.
 
 # Contributing
-Here you can detail any information you want to provide regarding contributing to the project. For big projects you will usually have a separate CONTRIBUTING.md and link to it, but for smaller projects you can simply include instructions here. These instructions can simply detail the process you want a person to take, such as to make sure to open a pull request so code can be reviewed.
+All Content on the site was provided by Noroff School Of technoloy.
 
 # Contact
-This is where you can leave your social links for people to contact you, such as a LinkedIn profile or Twitter link e.g.
+My discord: cookiekk#0684
 
-My Twitter page
-
-My LinkedIn page
-
-License
-You can link to your license file here if you're using one, or mention what license the codebase falls under. If you're unsure then you can simply delete this section.
+My LinkedIn page: https://www.linkedin.com/in/kristian-koloey-659b61a5/
 
 # Acknowledgments
-This is where you can add any acknowledgements if you'd like, such as to people who have helped you or any code snippets you'd like to mention. You can delete this section if you don't have any acknowledgements to make.
+Noroff school of technology has tought me most of the code i wrote for this project. I have also used Stackoverflow.com alot to figure out problems i had with my code. Ive looked at a heap of youtube videos for inspiration.
