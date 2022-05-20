@@ -1,34 +1,19 @@
 # SP1
-Semester project1
+My Semester Project for school at noroff.
 
 # Description
-Add a more detailed description of what your project entails and set out to do.
-
-You can add some bullet points if you'd like to:
-
-List item 1
-List item 2
-List item 3
+This project is a website i have created for a assignment for school.
+The website is a Science Museum homepage that is suppose to draw in children of all ages to come visit the museum.
+There are lots of information and cool pictures on the site for all ages, and ive created it to look abit clean so the colors from pictures etc pops out to the user.
+The site should also be very easy to navigate and the layout is made so it is easy to find the information the user is looking for.
 
 # Built With
-You can list a the tech stack that you've used over here
+-HTML
+-CSS
+-Javascript
 
-React.js
-Bootstrap
 # Getting Started
-Installing
-This is where you list how to get the project started. It typically just includes telling a person to clone the repo and then to install the dependencies e.g.
 
-Clone the repo:
-git clone git@github.com:NoroffFEU/portfolio-1-example.git
-Install the dependencies:
-npm install
-Running
-Here is where you detail how to run the app. It typically involves the commands you'd need to run to start the project e.g.
-
-To run the app, run the following commands:
-
-npm run start
 # Contributing
 Here you can detail any information you want to provide regarding contributing to the project. For big projects you will usually have a separate CONTRIBUTING.md and link to it, but for smaller projects you can simply include instructions here. These instructions can simply detail the process you want a person to take, such as to make sure to open a pull request so code can be reviewed.
 
